@@ -1,0 +1,29 @@
+body{
+    background-color: #ae1e49;
+}
+
+h1{
+    color:#332b40;
+    border-left: 5px solid black;
+    border-right: 5px solid white;
+    border-top: 5px solid green;
+    border-bottom: 5px solid blue;
+    border-radius: 10px;
+    text-align: center;
+    background: #afa793;
+    margin: 30px 70px 150px 20px;
+    padding: 50px;
+    
+}
+
+p{
+    color:white;
+
+}
+
+.exemplo-back{
+    height: 1000px;
+    background: grey url("../imagens/galaxia.jpeg") no-repeat center;
+    background-size: cover;
+    background-attachment: scroll;
+}
